@@ -6,4 +6,7 @@
 
 3. Ciklomatska kompleksnost e 11. Ako od brojot na rebra (35) go odzememe brojot na jazli (26) i dodademe 2, se dobiva rezultatot. Isto taka mozheme i da izbroime kolku regioni postojat (11) ili pak da gi izborime predikatnite jazli (10) i da dodademe 1.
 
-4. 
+4. Every branch
+
+![image](https://github.com/marijastojanoska/SI_2023_lab2_213024/assets/130248771/aab97cc8-2aa6-490d-b241-fab29a3b2d23)
+
